@@ -1,4 +1,4 @@
-# Muninn
+# Muninn Research
 
 Research group on **energy-autonomous embedded systems** and **sustainable IoT**, based at the Department of Industrial Engineering, University of Trento, Italy.
 
