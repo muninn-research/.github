@@ -38,8 +38,7 @@ Issues and pull requests are welcome. Please open an issue first to discuss larg
 ## Contact
 
 - Department of Industrial Engineering, University of Trento
-- Web: _add group or department page_
-- Email: _add contact address_
+- Email: matteo.nardello@unitn.it
 
 ## License
 
